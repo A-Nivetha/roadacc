@@ -1,5 +1,22 @@
 # Golden Hour — Intelligent Emergency Response & Coordination Platform
 
+## 🏆 Hackathon
+**1st Place: Crisis to Creation (October 2026)**
+
+Live demo: https://roadacc.vercel.app/
+
+Original repository: https://github.com/vaanavee/roadacc
+
+**Team:** R. Madhusri, S. Vaanavee, A. Nivetha
+
+**My contribution (A. Nivetha):**
+- Took part in defining the problem and designing the solution with the team
+- Proposed ideas for the system's features
+- Collected the data used for the project
+- Prepared the presentation work
+
+The website and backend were built by my teammates. This is a fork of their repository, kept for my portfolio.
+
 An end-to-end full-stack emergency response system designed to streamline communication between citizens, ambulance drivers, and hospitals during critical "Golden Hour" medical emergencies.
 
 ---
